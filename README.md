@@ -1,7 +1,6 @@
 
 # 🚨 Real-Time Fraud Detection Using Time Series Anomaly Detection
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Fraud_Detection-orange)]()
 [![Deep Learning](https://img.shields.io/badge/DL-LSTM%2CAutoencoder-brightgreen)]()
@@ -107,7 +106,5 @@ As the world goes digital, online transactions are more susceptible to fraud. Tr
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
